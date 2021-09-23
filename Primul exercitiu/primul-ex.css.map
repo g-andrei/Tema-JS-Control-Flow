@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAC;EACH,SAAS,EAAE,IAAI;EACf,gBAAgB,EAAE,IAAI;EACtB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,CAAC;CACZ",
+    "sources": [
+        "primul-ex.scss"
+    ],
+    "names": [],
+    "file": "primul-ex.css"
+}
