@@ -16,7 +16,7 @@ switch(tipVehicul) {
     case 'motocicleta': if ( capacitateCilindrica < 1600 ) {
         console.log(`Pentru o motocicleta cu ${capacitateCilindrica}cm aveti de plata ${Math.ceil(capacitateCilindrica/200) * 8} lei pe an.`);
     } else {
-        console.log(`Pentru o motocicleta cu ${capacitateCilindrica}cm aveti de plata ${Math.ceil(capacitateCilindrica/200) * 9} lei pe an.`);;
+        console.log(`Pentru o motocicleta cu ${capacitateCilindrica}cm aveti de plata ${Math.ceil(capacitateCilindrica/200) * 9} lei pe an.`);
     }
     break;
 
