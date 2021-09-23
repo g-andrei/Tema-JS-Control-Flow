@@ -7,4 +7,5 @@ for (var i = 0; i < arr.length; i++) {
     }
 }
 
+console.log(`Array-ul este: ${arr}`);
 console.log(`Suma tuturor numerelor din Array este: ${sum}`);
