@@ -2,7 +2,7 @@ var tipVehicul = prompt("Ce tip de vehicul aveti? (motocicleta, autoturism, auto
 
 while( tipVehicul === null || tipVehicul === "" ) {
     alert("Trebuie sa introduceti valorile dorite!");
-    tipVehicul = prompt("Ce tip de vehicul aveti?");
+    tipVehicul = prompt("Ce tip de vehicul aveti? (motocicleta, autoturism, autoutilitara, autobuz, tractor)");
 }
 
 var capacitateCilindrica = prompt("Care este capacitatea cilindrica a vehiculului?");
